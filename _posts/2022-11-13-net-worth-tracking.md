@@ -5,8 +5,6 @@ excerpt: Read on to know why you should monitor your assets and liabilities.
 ---
 
 
-### Why Monitoring Your Net Worth is Important
-
 I started earning around three years ago, out of college. It took sometime for me to understand that tracking my investments and gauging my financial health is important. I fear that most people who pass out of college in India, are not financially aware. Too many people know very less about investing. It is my strong opinion that everyone should be financially aware, have enough savings and invest prudently. I’ll list out some questions and answer them.
 
 ### Why should I worry about money? I have a good job out of college which pays well.
