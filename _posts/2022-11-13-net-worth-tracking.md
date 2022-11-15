@@ -24,5 +24,5 @@ It is true that pessimism sells. But that is surely not what I am doing. I know 
 
 <h3 style="text-align: left">How do I monitor my net worth?</h3>
 
-I made a Google Sheet template to monitor my net worth. It is a pretty simple way to keep track of all current assets and liabilites.
+I made a Google Sheet template to monitor my net worth. It is a pretty simple way to keep track of all current assets and liabilites. You can check it out <a href="https://vikhed.in/net-worth">here</a>.
 
