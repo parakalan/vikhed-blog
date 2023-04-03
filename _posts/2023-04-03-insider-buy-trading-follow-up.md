@@ -8,7 +8,7 @@ In our previous blog post, we explored a trading strategy based on insider buyin
 
 So, we decided to run the same strategy on new data from November 2021 to March 2023, which is a period of 17 months. Here are the results:
 
-|   **Duration**					|	01-11-2021 to 31-03-2023	|	01-02-2016 to 31-03-2023
+|   **Duration**					|	Nov 2021 to March 2023		|	Feb 2016 to March 2023
 |   **Corpus**						|	200000						|	200000
 |   **Stop Loss**					|	-5%							|	-5%
 |   **Net Return With SL**			|	74%							|	252%
@@ -18,7 +18,7 @@ So, we decided to run the same strategy on new data from November 2021 to March 
 |   **Max Profit**					|	39822						|	55534.31983
 |   **Max Monthly**					|	01-12-2021					|	01-11-2020
 |   **Max Company**					|	INDHOTEL					|	ELGIEQUIP
-|   **Short Term Capital Gains Tax**|	15%							|	15%
+|   **STCG Tax**					|	15%							|	15%
 |   **Tax**							|	52300.29 					|	105588.1236
 |   **Post Tax Net**				|	296368.135 					|	598332.7003
 |   **Post Tax Return**				|	48.18%						|	199.17%
