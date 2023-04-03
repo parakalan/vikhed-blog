@@ -11,23 +11,19 @@ So, we decided to run the same strategy on new data from November 2021 to March 
 **Insider Buying System**
 |   **From**						|	01-11-2021
 |   **To**							|	31-03-2023
-
 |   **Corpus**						|	200000
 |   **Stop Loss**					|	-5%
 |   **Net Return With SL**			|	74%
 |   **Net Return Without SL**		|	43%
 |   **Monthly Average With SL**		|	8745.211765
 |   **Monthly Average Without SL**	|	5062.976471
-
 |   **Max Profit**					|	39822
 |   **Max Monthly**					|	01-12-2021
 |   **Max Company**					|	INDHOTEL
-
 |   **Short Term Capital Gains Tax**|	15%
 |   **Tax**							|	52300.29
 |   **Post Tax Net**				|	296368.31
 |   **Post Tax Return**				|	48.18%
-
 |   **No. of positive months**		|	11
 |   **No. of negative months**		|	6
 
@@ -36,23 +32,19 @@ The following is the cumulative results from February 2016 to March 2023
 
 |   **From**						|	01-02-2016
 |   **To**							|	31-03-2023
-
 |   **Corpus**						|	200000
 |   **Stop Loss**					|	-5%
 |   **Net Return With SL**			|	252%
 |   **Net Return Without SL**		|	49%
 |   **Monthly Average With SL**		|	5859.544463
 |   **Monthly Average Without SL**	|	1137.978153
-
 |   **Max Profit**					|	55534.31983
 |   **Max Monthly**					|	01-11-2020
 |   **Max Company**					|	ELGIEQUIP
-
 |   **Short Term Capital Gains Tax**|	15%
 |   **Tax**							|	105588.1236
 |   **Post Tax Net**				|	598332.7003
 |   **Post Tax Return**				|	199.17%
-
 |   **No. of positive months**		|	46
 |   **No. of negative months**		|	40
 
