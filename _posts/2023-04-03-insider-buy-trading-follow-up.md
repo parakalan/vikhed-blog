@@ -9,6 +9,7 @@ In our previous blog post, we explored a trading strategy based on insider buyin
 So, we decided to run the same strategy on new data from November 2021 to March 2023, which is a period of 17 months. Here are the results:
 
 **Insider Buying System**
+
 |   **From**						|	01-11-2021
 |   **To**							|	31-03-2023
 |   **Corpus**						|	200000
