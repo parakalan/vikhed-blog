@@ -15,6 +15,7 @@ So, we decided to run the same strategy on new data from November 2021 to March 
 |   **Net Return Without SL**		|	43%							|	49%
 |   **Monthly Average With SL**		|	8745.211765					|	5859.544463
 |   **Monthly Average Without SL**	|	5062.976471					|	1137.978153
+|   **CAGR/CMGR**					|	3.64% (CMGR)				|	19.8% (CAGR)
 |   **Max Profit**					|	39822						|	55534.31983
 |   **Max Monthly**					|	01-12-2021					|	01-11-2020
 |   **Max Company**					|	INDHOTEL					|	ELGIEQUIP
