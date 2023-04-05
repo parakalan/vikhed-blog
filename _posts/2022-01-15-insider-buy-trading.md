@@ -5,6 +5,7 @@ excerpt: Read on to know about trading based on insider buys.
 # permalink: /insider-buy-trading
 ---
 
+_(There is an update on this article here <a href="https://blog.vikhed.in/insider-buy-trading-follow-up/" target="_blank">https://blog.vikhed.in/insider-buy-trading-follow-up/</a>)_
 Insider buying in a company can signal positive developments. We use insider buying to form a monthly trading strategy.
 
 On the first of every month, get the company with maximum insider buying in the previous month and place BUY order and SELL the same on the last trading day of the month. I backtested this from January 2016 to September 2021 for 69 months, [here are the results](https://docs.google.com/spreadsheets/d/1xtWw99OCv7bAe1NdQNfGYB0Nir4rK8oo/edit#gid=1574867501). Below is the summary and cumulative graph for initial corpus of 2 lakhs.
